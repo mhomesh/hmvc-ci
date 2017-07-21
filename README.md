@@ -9,5 +9,5 @@ Make sure you have place the directories to the right place and your HMVC is all
 for example : yourdomain.com/controller/function/
 In our case I  have created Welcome controller inside the Modules so the url will be 
 # yourlocal_CI_path/welcome/
-
+You can also change the directory Modules to your disired name with third_pary/Module.php
 # All the Best.
